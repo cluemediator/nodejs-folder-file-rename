@@ -3,7 +3,7 @@ Rename all files in a folder using Node.js
 
 ## Documentation
 
-[https://www.cluemediator.com/rename-all-files-in-a-folder-using-node.js](https://www.cluemediator.com/rename-all-files-in-a-folder-using-node-js)
+[https://www.cluemediator.com/rename-all-files-in-a-folder-using-node-js](https://www.cluemediator.com/rename-all-files-in-a-folder-using-node-js)
 
 ## Quick Start
 
