@@ -13,10 +13,6 @@ Follow the below steps to run the project.
 2. Run `npm i` command to install dependencies
 3. Execute `npm start` command to run the project
 
-## Output
-
-[![Example](https://www.cluemediator.com/wp-content/uploads/2023/07/output-rename-all-files-in-a-folder-using-node-js-clue-mediator.gif)](https://www.cluemediator.com/rename-all-files-in-a-folder-using-node-js)
-
 **Follow us on [GitHub](https://github.com/cluemediator) for more update.**
 
 ## Connect with us
